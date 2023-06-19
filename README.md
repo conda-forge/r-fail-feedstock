@@ -1,11 +1,11 @@
-About r-fail
-============
+About r-fail-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-fail-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/mllg/fail
 
 Package license: BSD-3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-fail-feedstock/blob/main/LICENSE.txt)
 
 Summary: More comfortable interface to work with R data or source files in a key-value fashion.
 
